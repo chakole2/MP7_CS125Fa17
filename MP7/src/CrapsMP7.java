@@ -5,7 +5,7 @@ public class CrapsMP7 {
 
 
 	public static void main(String[] args) {
-		
+		//just checking stuff
 		int roundNumber = 0, bank = 250;
 		boolean passline = true;
 		//Introduction. Bank amount
